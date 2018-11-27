@@ -9,7 +9,9 @@ A repo for fetching the github user information.
 3. Secondly, As this repository is cloned first thing is to check for the package.json file. And, hence, we have to initialize bootstrap 
    so that, have to run "npm install" to install the nod_modules to the folder.
    
-4. Thirdly, Have to install live-server using "npm install live-server -g". We can also run the using "npm start" but, the styling effects
+4. Remove ".gitignore".
+   
+5. Thirdly, Have to install live-server using "npm install live-server -g". We can also run the using "npm start" but, the styling effects
    willnot be that much better.
    
-5. Finally to run the application have to run the command "live-server".
+6. Finally to run the application have to run the command "live-server".
